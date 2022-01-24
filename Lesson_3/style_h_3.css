@@ -1,0 +1,149 @@
+.gen {
+    margin: 50px;
+}
+
+/* 1 */
+.gen_1 {
+    width: 500px;
+    height: 400px;
+    border: 3px solid #9c9c9c;
+    border-radius: 2%;
+}
+.A {
+    width: 490px;
+    height: 130px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background: #d8d8d8;
+}
+.B {
+    width: 365px;
+    height: 255px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background: #d8d8d8;
+}
+.C {
+    width: 120px;
+    height: 255px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background: #d8d8d8;
+}
+.down {
+    display: flex;
+}
+
+/*2-1 */
+#header {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 400px;
+    height: 60px;
+    background: #e5f6af;
+    border: 2px solid black;
+}
+#menu {
+    height: 350px;
+    width: 130px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #fdb6fe;
+    border: 2px solid black;
+}
+.post {
+    width: 255px;
+    height: 168px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #9ee1fe;
+    border: 2px solid black;
+}
+#footer {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 400px;
+    height: 60px;
+    background: #fdfdc9;
+    border: 2px solid black;
+}
+
+/*2-2*/
+.widgets {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 150px;
+    width: 400px;
+    background: #2269ba;
+}
+.big {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 127px;
+    height: 150px;
+    background: #16457a;
+}
+.contact {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 250px;
+    width: 400px;
+    background: #2269ba;
+}
+
+/*2*/
+.header_1 {
+    height: 70px;
+    width: 400px;
+    background: #0c65a6;
+}
+.nav {
+    height: 50px;
+    width: 400px;
+    background: #124b78;
+}
+.main {
+    height: 250px;
+    width: 300px;
+    background: #16a1c4;
+}
+.aside {
+    height: 250px;
+    width: 100px;
+    background: #5275ac;
+}
+.footer_1 {
+    height: 60px;
+    width: 400px;
+    background: #7bcbe2;
+}
+
+/*img*/
+.last {
+    width: 750px;
+    height: 450px;
+    background: #06bbd3;
+    align-items: center;
+    justify-content: center;
+}
+.block {
+    width: 330px;
+    height: 120px;
+    margin: 10px 5px;
+    background: #fcfdfd;
+    border-radius: 5px;
+}
+.icon {
+    font-size: 50px;
+    color: #9a9a9a;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+h3 {
+    margin: 15px;
+    color: #f0a149;
+
+}
+p {
+    margin: 15px;
+}

@@ -1,0 +1,67 @@
+.bs_bb {
+    box-sizing: border-box;
+}
+.border_s {
+    border: 3px solid #9c9c9c;
+    border-radius: 2%;
+}
+.m50 {
+    margin: 50px;
+}
+.w500 {
+    width: 500px;
+}
+.h400 {
+    height: 400px;
+}
+.mt5 {
+    margin-top: 5px;
+}
+.ml5 {
+    margin-left: 5px;
+}
+.w485 {
+    width: 485px;
+}
+.h130 {
+    height: 130px;
+}
+.silver {
+    background: #d8d8d8;
+}
+.flex {
+    display: flex;
+}
+.w360 {
+    width: 360px;
+}
+.h122 {
+    height: 122px;
+}
+.h250 {
+    height: 250px;
+}
+.w120 {
+    width: 120px;
+}
+.w117 {
+    width: 117px;
+}
+.d_blue {
+    background: #16457a;
+}
+.w400 {
+    width: 400px;
+}
+.h170 {
+    height: 170px;
+}
+.w130 {
+    width: 130px;
+}
+.w197 {
+    width: 197px;
+}
+.m_blue {
+    background: #2269ba;
+}

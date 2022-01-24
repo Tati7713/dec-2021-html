@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+.header {
+    width: 700px;
+    height: 50px;
+    background: #54d4ea;
+}
+.flex {
+    display: flex;
+}
+.hero {
+    width: 250px;
+    height: 250px;
+    background: #d6c8e2;
+}
+.sidebar {
+    width: 250px;
+    height: 350px;
+    background: #9ec263;
+}
+.main {
+    width: 450px;
+    height: 450px;
+    background: #f4c532;
+}
+.extra {
+    width: 450px;
+    height: 150px;
+    background: #888888;
+}
+.img {
+    width: 500px;
+    height: 130px;
+    background: #2bb573;
+}
+.posts {
+    width: 200px;
+    height: 130px;
+    background: #f2cbdd;
+}
+.footer {
+    width: 700px;
+    height: 50px;
+    background: #fca401;
+}
+.bord {
+    border: 3px solid white;
+}
