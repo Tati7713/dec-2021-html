@@ -1,0 +1,135 @@
+.m50 {
+    margin: 50px;
+}
+.flex {
+    display: flex;
+}
+.N1 {
+    height: 50px;
+    width: 100px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N8 {
+    height: 50px;
+    width: 100px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N9 {
+    height: 50px;
+    width: 100px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N2 {
+    height: 50px;
+    width: 400px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N3 {
+    width: 100px;
+    height: 400px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N4 {
+    width: 300px;
+    height: 150px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N5 {
+    width: 100px;
+    height: 150px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N6 {
+    height: 354px;
+    width: 300px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N5 {
+    height: 150px;
+    width: 96px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N7 {
+    height: 354px;
+    width: 96px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N10 {
+    width: 504px;
+    height: 100px;
+    background: #676767;
+    border: 2px solid white;
+}
+.N89_m {
+    display: none;
+}
+
+@media screen and (min-width: 0px) and (max-width: 992px){
+    .m50 {
+        margin: 20px;
+    }
+    .flex {
+        display: block;
+    }
+    .flex_m {
+        display: flex;
+    }
+    .N1 {
+        width: 50px;
+    }
+    .N2 {
+        width: 150px;
+    }
+    .N3 {
+        width: 205px;
+        height: 50px;
+    }
+    .N8 {
+        display: none;
+    }
+    .N9 {
+        display: none;
+    }
+    .N4 {
+        width: 150px;
+        height: 100px;
+    }
+    .N5 {
+        width: 50px;
+        height: 100px;
+    }
+    .N6 {
+        height: 300px;
+        width: 205px;
+    }
+    .N7 {
+        height: 100px;
+        width: 205px;
+    }
+    .N8_m {
+        height: 50px;
+        width: 100px;
+        background: #676767;
+        border: 2px solid white;
+    }
+    .N9_m {
+        height: 50px;
+        width: 100px;
+        background: #676767;
+        border: 2px solid white;
+    }
+    .N10 {
+        height: 100px;
+        width: 205px;
+    }
+}
